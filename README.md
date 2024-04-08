@@ -8,3 +8,5 @@ some code
 
 
 #### apartaments 20 rooms
+
+##coin 1200
